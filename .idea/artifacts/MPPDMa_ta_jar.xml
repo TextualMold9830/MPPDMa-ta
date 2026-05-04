@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MPPDMa-ta:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MPPDMa_ta_jar</output-path>
+    <root id="archive" name="MPPDMa-ta.jar">
+      <element id="module-output" name="MPPDMa-ta" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/nikita22007/mppdserver/0.0.0/mppdserver-0.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
